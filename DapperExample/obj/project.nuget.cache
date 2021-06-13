@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "w6E2auzYT0OvxdMjcnYIjC7cXBdDhFJoalk2Y9usIWBMs7Ef5TUnat2bNqozXt4ZKiEcA+Q2G0WFqSeXiFy5YQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\irmak.esin\\source\\repos\\DapperExample\\DapperExample\\DapperExample.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irmak.esin\\.nuget\\packages\\dapper\\2.0.90\\dapper.2.0.90.nupkg.sha512"
+  ],
+  "logs": []
+}
