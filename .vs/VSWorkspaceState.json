@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DapperExample",
+    "\\DapperExample\\obj\\Debug",
+    "\\DapperExample\\obj\\Release"
   ],
+  "SelectedNode": "\\DapperExample\\IProductRepository.cs",
   "PreviewInSolutionExplorer": false
 }
